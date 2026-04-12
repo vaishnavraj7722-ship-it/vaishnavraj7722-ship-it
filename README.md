@@ -26,11 +26,10 @@ Focused on **AI/ML and Deep Learning**
 ## Projects
 | Project | Description | Tech |
 |---|---|---|
+| [5G CQI Prediction](https://github.com/vaishnavraj7722-ship-it/5G_CQI_Prediction) | Predicting 5G Channel Quality from real network measurements using ANN | Keras, TensorFlow |
 | [Bank Churn Prediction](https://github.com/vaishnavraj7722-ship-it/bank-churn-ANN) | Predicting customer churn using ANN | Keras, TensorFlow |
 | [Graduate Admission Prediction](https://github.com/vaishnavraj7722-ship-it/Graduate_Admission_Prediction) | Predicting admission chances using ANN | Keras, TensorFlow |
 | [MNIST Digit Classification](https://github.com/vaishnavraj7722-ship-it/MNIST_Digit_Classification) | Handwritten digit classification | Keras, TensorFlow |
-
----
 
 ## Currently Working On
 - 📖 Deep Learning fundamentals
