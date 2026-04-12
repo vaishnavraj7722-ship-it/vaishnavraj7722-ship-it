@@ -6,9 +6,9 @@ Focused on **AI/ML and Deep Learning**
 ---
 
 ## About Me
-- 🎓 B.Tech CSE @ IIIT Dharwad (2025-2029)
-- 🤖 Member of DSAI Society Club
-- 🌱 Currently exploring Deep Learning and Neural Networks
+-  B.Tech CSE @ IIIT Dharwad (2025-2029)
+-  Member of DSAI Society Club
+-  Currently exploring Deep Learning and Neural Networks
 
 ---
 
@@ -33,5 +33,5 @@ Focused on **AI/ML and Deep Learning**
 
 ## Currently Working On
 - 📖 Deep Learning fundamentals
-- 🌳 Data Structures & Algorithms in C++
-- 🔬 Building stronger ML projects for portfolio
+-  Data Structures & Algorithms in C++
+-  Building stronger ML projects for portfolio
